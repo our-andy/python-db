@@ -1,0 +1,5 @@
+Flask==2.0.2
+mysql-connector-python==8.0.28
+pandas
+numpy
+jupyter==1.0.0
