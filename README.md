@@ -28,3 +28,6 @@ Finally install the required packages by typing
 pip install -r requirements.txt
 ```
 
+## Database
+
+In Mysql, create a database called `nba_data`. 
