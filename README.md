@@ -31,3 +31,9 @@ pip install -r requirements.txt
 ## Database
 
 In Mysql, create a database called `nba_data`. 
+
+
+
+## Notebook
+
+Open up Git bash or a Linux kernel and type `jupyter notebook`. You should be able to access `main.ipynb` and run the code. It hangs after the `cursor.execute(SQLSTATEMENT)` command. 
